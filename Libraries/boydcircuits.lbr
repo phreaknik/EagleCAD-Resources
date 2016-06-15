@@ -1890,8 +1890,8 @@ Source: http://document.sharpsma.com/files/GM5WA94310A_SS.pdf</description>
 <devices>
 <device name="" package="SWITCH-95CW06A1GWT">
 <connects>
-<connect gate="G$1" pin="P$1" pad="P$1 P$3"/>
-<connect gate="G$1" pin="P$2" pad="P$2 P$4"/>
+<connect gate="G$1" pin="P$1" pad="P$1 P$2"/>
+<connect gate="G$1" pin="P$2" pad="P$3 P$4"/>
 </connects>
 <technologies>
 <technology name=""/>
